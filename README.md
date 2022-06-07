@@ -4,7 +4,7 @@
 <!-- Intro -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=yemann404.visitor-badge"/>
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=blue&center=true&vCenter=true&lines=developpeur;pentester;j'aime+l'intelligence+artificielle">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=blue&center=true&vCenter=true&lines=developpeur;!!!;j'aime+l'intelligence+artificielle">
     <h3 align="center">Etudiant en informatique passionné de hacking et d'intelligence artificielle </h3>
     <h3 align="center">je suis developpeur web Front-end</h3>
 </p>
