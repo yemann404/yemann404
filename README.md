@@ -25,8 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemann404&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yemann404" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yemann404&&theme=tokyonight" alt="yemann404" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yemann404&&theme=tokyonight" alt="yemann404" /></p>
 
 <p align="right">
-   <img align="right" alt="Coding" width="300" src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif">
+   <img align="right" alt="Coding" height="200" width="300" src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif">
 </p>
