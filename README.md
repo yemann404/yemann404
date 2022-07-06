@@ -2,7 +2,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Yemann404</h1>
 
 <!-- Intro -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=yemann404.visitor-badge"/>
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=blue&center=true&vCenter=true&lines=developpeur;!!!;j'aime+l'intelligence+artificielle">
     <h3 align="center">Etudiant en informatique passionné d'intelligence artificielle </h3>
