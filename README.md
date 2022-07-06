@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> I'm Yemann404</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I'm Yemann404</h1>
 
 <!-- Intro -->
-<p style="margin: 15px;" align="center">
+<p style="margin: 10px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=blue&center=true&vCenter=true&lines=developpeur;!!!;j'aime+l'intelligence+artificielle">
     <h3 align="center">Etudiant en informatique passionné d'intelligence artificielle </h3>
     <h3 align="center">je suis developpeur web Front-end</h3>
