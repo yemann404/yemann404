@@ -25,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemann404&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yemann404" /></p>
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+
 
 <p align="right">
    <img align="right" alt="Coding" width="400" src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif">
