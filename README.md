@@ -28,5 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yemann404&&theme=tokyonight" alt="yemann404" /></p>
 
 <p align="right">
-   <img align="right" alt="Coding" top="200" width="300" src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif">
+   <img align="right" alt="Coding" width="300" src="https://dakshyatechnology.com/wp-content/uploads/2021/08/39998-web-development.gif">
 </p>
